@@ -15,3 +15,4 @@ A simple JavaFX app to organize and prioritize tasks.
 - Extract file
 - Navigate to bin folder, go inside and find SmartTodoList.bat (batch file)
 ## Preview
+images/preview.png
