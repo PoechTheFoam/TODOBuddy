@@ -11,3 +11,7 @@ A simple JavaFX app to organize and prioritize tasks.
 - Color highlights and markers for tasks with certain effort/priority values.
 
 ## How to run
+- Install zip file on releases
+- Extract file
+- Navigate to bin folder, go inside and find SmartTodoList.bat (batch file)
+## Preview
